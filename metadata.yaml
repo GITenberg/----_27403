@@ -1,0 +1,33 @@
+_repo: '----_27403'
+_version: 0.1.0
+alternative_title:
+- Qing dai ye ji
+- 清代野記
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zuoguanlaoren
+    aliases:
+    - 張祖翼
+    - 坐觀老人
+    - Zhang, Zuyi
+    birthdate: 1849
+    deathdate: 1917
+    gutenberg_agent_id: '32672'
+    url: http://www.gutenberg.org/2009/agents/32672
+description: ''
+gutenberg_issued: '2008-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27403'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'China -- History -- Qing dynasty, 1644-1912 -- Anecdotes'
+title: 清代野记
+url: http://www.gutenberg.org/ebooks/27403
